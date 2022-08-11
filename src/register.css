@@ -1,0 +1,22 @@
+.container-register{
+    min-width:500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #fff;
+    border-radius: 5px;
+    min-height: 40%;
+    margin: auto;
+    padding: 20px;
+}
+.form-horizontal{
+    padding: 20px;
+    box-sizing: border-box;
+    align-items: center;
+    border-radius: 10px;
+}
+.center-box{
+    
+    border:5px solid rgb(244, 160, 160) ;
+}
